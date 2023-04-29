@@ -68,15 +68,6 @@ directionalLight.position.set(1, 1, 0);
 scene.add(directionalLight);
 
 /**
- * Test cube
- */
-// const cube = new THREE.Mesh(
-// 	new THREE.BoxGeometry(1, 1, 1),
-// 	new THREE.MeshBasicMaterial({ color: "#ff0000" })
-// );
-// scene.add(cube);
-
-/**
  * Sizes
  */
 const sizes = {
