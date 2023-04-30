@@ -7,7 +7,7 @@ import * as dat from "lil-gui";
 const gui = new dat.GUI();
 
 const parameters = {
-	materialColor: "#ffeded",
+	materialColor: "#009dff",
 };
 
 gui.addColor(parameters, "materialColor").onChange(() => {
